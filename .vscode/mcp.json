@@ -4,7 +4,8 @@
       "url": "https://mcp.guide.sonatype.com/mcp",
       "type": "http",
       "headers": {
-        "Authorization": "Bearer <your-token>"
+        "Authorization": "Bearer sonatype_pat_WSrBra5lr2DQ_4k-yb7NoJ4yw
+OldOX509FuvAZ5q2GwDN9XG"
       }
     }
   }
